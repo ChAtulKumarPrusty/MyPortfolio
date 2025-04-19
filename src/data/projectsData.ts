@@ -8,7 +8,7 @@ export const projectsData: Project[] = [
     image: 'https://images.pexels.com/photos/6214470/pexels-photo-6214470.jpeg?auto=compress&cs=tinysrgb&w=600',
     technologies: ['Python', 'TensorFlow', 'React', 'D3.js', 'Flask'],
     year: '2023',
-    category: 'machine-learning',
+    category: 'machine-learning','web-dev'
     githubUrl: 'https://github.com/ChAtulKumarPrusty/Online-Shopping-Portal',
     liveUrl: 'https://example.com'
   },
