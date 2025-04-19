@@ -71,7 +71,7 @@ export const projectsData: Project[] = [
     id: 7,
     title: 'Hand Gesture Controlled Presentation Tool',
     description: 'This project allows you to control PowerPoint presentations using hand gestures in real time, using your webcam and OpenCV. The presentation slides are converted into images, and you can navigate them, draw annotations, and undo drawings using intuitive hand gestures.',
-    image: 'https://images.pexels.com/photos/6150524/pexels-photo-6150524.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://images.pexels.com/photos/6150524/pexels-photo-6150524.jpeg?auto=compress&cs=tinysrgb&w=600',
     technologies: ['Python', 'OpenCV', 'Mediapipe', 'cvzone', 'PyAutoGUI'],
     year: '2023',
     category: 'machine-learning',
