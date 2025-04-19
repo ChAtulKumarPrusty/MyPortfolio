@@ -10,7 +10,7 @@ export const projectsData: Project[] = [
     year: '2025',
     category: 'machine-learning',
     githubUrl: null ,
-    liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/'
+    liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/details/projects/'
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ export const projectsData: Project[] = [
     year: '2025',
     category: 'web-dev',
     githubUrl: 'https://github.com/ChAtulKumarPrusty/Online-Shopping-Portal',
-    liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/'
+    liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/details/projects/'
   },
   {
     id: 3,
@@ -32,7 +32,7 @@ export const projectsData: Project[] = [
     year: '2024',
     category: 'visualization',
     githubUrl: 'https://github.com/ChAtulKumarPrusty/NLP-Text-Similarity-Visualization-WebApp',
-    liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/'
+    liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/details/projects/'
   },
   {
     id: 4,
@@ -43,7 +43,7 @@ export const projectsData: Project[] = [
     year: '2024',
     category: 'visualization',
     githubUrl: 'https://github.com/ChAtulKumarPrusty/Smart-Classroom-Student-Monitoring-System',
-    liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/'
+    liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/details/projects/'
   },
   {
     id: 5,
@@ -54,7 +54,7 @@ export const projectsData: Project[] = [
     year: '2024',
     category: 'machine-learning',
     githubUrl: 'https://github.com/ChAtulKumarPrusty/Plant-Disease-Detection-WebApp',
-    liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/'
+    liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/details/projects/'
   },
   {
     id: 6,
@@ -65,7 +65,7 @@ export const projectsData: Project[] = [
     year: '2024',
     category: 'data-analysis',
     githubUrl: 'https://github.com/ChAtulKumarPrusty/Calorie-Estimation-with-Object-Detection',
-    liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/'
+    liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/details/projects/'
   },
   {
     id: 7,
@@ -76,7 +76,7 @@ export const projectsData: Project[] = [
     year: '2023',
     category: 'machine-learning',
     githubUrl: 'https://github.com/ChAtulKumarPrusty/Hand-Gesture-Controlled-Presentation-Tool',
-    liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/'
+    liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/details/projects/'
   },
   {
     id: 8,
@@ -87,7 +87,7 @@ export const projectsData: Project[] = [
     year: '2023',
     category: 'machine-learning',
     githubUrl: 'https://github.com/ChAtulKumarPrusty/AI-Voice-Assistant',
-    liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/'
+    liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/details/projects/'
   },
   {
     id: 9,
@@ -98,7 +98,7 @@ export const projectsData: Project[] = [
     year: '2023',
     category: 'web-dev',
     githubUrl: 'https://github.com/ChAtulKumarPrusty/Product-Recommendation-System',
-    liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/'
+    liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/details/projects/'
   },
   {
     id: 10,
@@ -109,7 +109,7 @@ export const projectsData: Project[] = [
     year: '2023',
     category: 'machine-learning',
     githubUrl: 'https://github.com/ChAtulKumarPrusty/Ping-Pong-Game',
-    liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/'
+    liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/details/projects/'
   },
   {
     id: 11,
@@ -120,7 +120,7 @@ export const projectsData: Project[] = [
     year: '2022',
     category: 'machine-learning',
     githubUrl: 'https://github.com/ChAtulKumarPrusty/VoiceTranslator',
-    liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/'
+    liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/details/projects/'
   },
   {
     id: 12,
@@ -131,7 +131,7 @@ export const projectsData: Project[] = [
     year: '2022',
     category: 'machine-learning',
     githubUrl: 'https://github.com/ChAtulKumarPrusty/Rock-Paper-Scissor-Game',
-    liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/'
+    liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/details/projects/'
   },
   {
     id: 13,
@@ -142,7 +142,7 @@ export const projectsData: Project[] = [
     year: '2022',
     category: 'machine-learning',
     githubUrl: 'https://github.com/ChAtulKumarPrusty/Real-Time-Object-Detection-WebApp',
-    liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/'
+    liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/details/projects/'
   },
   {
     id: 14,
@@ -153,6 +153,6 @@ export const projectsData: Project[] = [
     year: '2022',
     category: 'machine-learning',
     githubUrl: 'https://github.com/ChAtulKumarPrusty/Hand-Gesture-Controlled-Virtual-Mouse',
-    liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/'
+    liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/details/projects/'
   }
 ];
