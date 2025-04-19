@@ -38,7 +38,7 @@ export const projectsData: Project[] = [
     id: 4,
     title: 'Smart Classroom Student Monitoring System',
     description: 'This project is a Real-Time AI-Powered Classroom Monitoring System that tracks and evaluates student behaviors such as hand-raising, head position, emotion, and body posture using computer vision and deep learning techniques. It aims to provide automated attendance and attention analysis during online or physical classroom sessions.',
-    image: 'https://www.pexels.com/photo/teacher-asking-a-question-to-the-class-5212345.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://images.pexels.com/photos/5212345/pexels-photo-5212345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
     technologies: ['Python', 'OpenCV', 'Mediapipe', 'Flask', 'TensorFlow', 'HTML', 'CSS', 'JavaScript'],
     year: '2024',
     category: 'visualization',
