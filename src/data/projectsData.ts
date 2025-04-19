@@ -16,7 +16,7 @@ export const projectsData: Project[] = [
     id: 2,
     title: 'Online Shopping Portal',
     description: 'This is a PHP-based Online Shopping Portal that allows users to browse products, add items to their cart, place orders, and manage user profiles. Its a simple yet effective e-commerce system for small businesses or personal learning purposes.',
-    image: 'https://images.pexels.com/photos/6214470/pexels-photo-6214470.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIig5OGDUxbDX81yllo3N0xuKyn4mQgE3D9g&s',
     technologies: ['PHP', 'MySQL', 'HTML', 'CSS', 'JavaScript', 'Bootstrap'],
     year: '2025',
     category: 'web-dev',
