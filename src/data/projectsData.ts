@@ -102,7 +102,7 @@ export const projectsData: Project[] = [
   },
   {
     id: 10,
-    title: 'Hand Gesture Controlled Ping Pong Game',
+    title: 'Ping Pong Game',
     description: 'A fun and interactive ping pong game controlled entirely using your hands, built with OpenCV, cvzone, and MediaPipe. Play against yourself or a friend — no keyboard or mouse needed!',
     image: 'https://images.pexels.com/photos/18511482/pexels-photo-18511482/free-photo-of-ping-pong-ball-and-rackets.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
     technologies: ['Python', 'OpenCV', 'Mediapipe', 'Pygame'],
@@ -146,7 +146,7 @@ export const projectsData: Project[] = [
   },
   {
     id: 14,
-    title: 'Hand Gesture Controlled Virtual Mouse',
+    title: 'Virtual Mouse',
     description: 'This project allows you to control your computer\'s mouse using hand gestures detected via your webcam, using MediaPipe and OpenCV. When the index finger moves, the cursor moves accordingly. A mouse click is triggered when the thumb and index finger come close together.',
     image: 'https://images.pexels.com/photos/7195310/pexels-photo-7195310.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
     technologies: ['Python', 'OpenCV', 'Mediapipe', 'PyAutoGUI'],
