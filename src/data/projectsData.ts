@@ -14,14 +14,14 @@ export const projectsData: Project[] = [
   },
   {
     id: 2,
-    title: 'Natural Language Processing API',
-    description: 'An API for sentiment analysis, text classification, and named entity recognition. Built using state-of-the-art NLP models and deployed as a microservice architecture.',
-    image: 'https://images.pexels.com/photos/1181359/pexels-photo-1181359.jpeg?auto=compress&cs=tinysrgb&w=600',
-    technologies: ['Python', 'NLTK', 'spaCy', 'FastAPI', 'Docker'],
-    year: '2023',
+    title: 'NLP Text Similarity & Visualization Web App',
+    description: 'This project is a powerful Flask-based web application that evaluates the similarity between two texts (or images containing text), leveraging various NLP techniques. It supports multiple similarity metrics, visual analytics, and word-level frequency insights. Ideal for research, academic comparisons, and document analysis.',
+    image: 'https://www.istockphoto.com/photo/natural-language-processing-nlp-gm2050481773-563250879?utm_source=pexels&utm_medium=affiliate&utm_campaign=limited-results_photo&utm_content=srp_page_end_media&utm_term=NLP.jpeg?auto=compress&cs=tinysrgb&w=600',
+    technologies: ['Python', 'Flask', 'NLTK', 'spaCy', 'Matplotlib', 'Seaborn', 'JavaScript', 'HTML', 'CSS'],
+    year: '2024',
     category: 'machine-learning',
-    githubUrl: 'https://github.com',
-    liveUrl: 'https://example.com'
+    githubUrl: 'https://github.com/ChAtulKumarPrusty/NLP-Text-Similarity-Visualization-WebApp',
+    liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/'
   },
   {
     id: 3,
