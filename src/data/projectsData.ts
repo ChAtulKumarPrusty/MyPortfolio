@@ -5,7 +5,7 @@ export const projectsData: Project[] = [
     id: 1,
     title: 'Gesture-Controlled Game Hub',
     description: 'Developed an innovative web-based platform that allows users to interact with multiple games through hand and face gestures. The platform features a variety of gesture-controlled games, including car racing, flight simulation, arcade racing, endless runner, hill climb , and many more....',
-    image: 'https://www.google.com/imgres?q=Game%20Hub.jpeg&imgurl=https%3A%2F%2Fpreview.redd.it%2Fgamehub-does-anyone-know-where-the-save-files-are-stored-v0-6pxnygt2lhfe1.jpeg%3Fauto%3Dwebp%26s%3D7b2a243227f9026aa7697534cead975a42b7f332&imgrefurl=https%3A%2F%2Fwww.reddit.com%2Fr%2FEmulationOnAndroid%2Fcomments%2F1ib2cpw%2Fgamehub_does_anyone_know_where_the_save_files_are%2F&docid=PUf2GhiwSxaZ-M&tbnid=C2hShc6g3idIaM&vet=12ahUKEwidxZD0x-OMAxWJR2wGHSN4Ao8QM3oECCwQAA..i&w=2712&h=1220&hcb=2&ved=2ahUKEwidxZD0x-OMAxWJR2wGHSN4Ao8QM3oECCwQAA.jpg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://www.pexels.com/photo/woman-on-a-virtual-reality-ride-6498952/.jpg?auto=compress&cs=tinysrgb&w=600',
     technologies: ['Python', 'C' , 'OpenCV', 'Mediapipe', 'Flask', 'HTML', 'CSS', 'JavaScript', 'Pygame'],
     year: '2025',
     category: 'machine-learning',
