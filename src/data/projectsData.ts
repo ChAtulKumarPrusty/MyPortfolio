@@ -3,13 +3,13 @@ import { Project } from '../types';
 export const projectsData: Project[] = [
   {
     id: 1,
-    title: 'Predictive Analytics Dashboard',
+    title: 'Online Shopping Portal',
     description: 'A real-time dashboard for monitoring and predicting customer behavior using machine learning algorithms. The system processes large volumes of data and provides actionable insights for business decision-making.',
-    image: 'https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://www.google.com/imgres?q=Online%20Shopping%20Portal&imgurl=https%3A%2F%2F5.imimg.com%2Fdata5%2FPP%2FYS%2FPL%2FSELLER-100917393%2Fonline-shopping-website-jkenterprises-kanchipuram-jpg.jpg&imgrefurl=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Fonline-shopping-e-commerce-website-22498393397.html&docid=7D6iDgbwJuRvJM&tbnid=yjI-ssZI93vEsM&vet=12ahUKEwjKosbv--KMAxUe3TgGHeVeLWsQM3oECFUQAA..i&w=565&h=460&hcb=2&ved=2ahUKEwjKosbv--KMAxUe3TgGHeVeLWsQM3oECFUQAA',
     technologies: ['Python', 'TensorFlow', 'React', 'D3.js', 'Flask'],
     year: '2023',
     category: 'machine-learning',
-    githubUrl: 'https://github.com',
+    githubUrl: 'https://github.com/ChAtulKumarPrusty/Online-Shopping-Portal',
     liveUrl: 'https://example.com'
   },
   {
