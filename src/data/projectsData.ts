@@ -5,10 +5,10 @@ export const projectsData: Project[] = [
     id: 1,
     title: 'Gesture-Controlled Game Hub',
     description: 'Developed an innovative web-based platform that allows users to interact with multiple games through hand and face gestures. The platform features a variety of gesture-controlled games, including car racing, flight simulation, arcade racing, endless runner, hill climb , and many more....',
-    image: 'https://www.pexels.com/photo/a-woman-in-a-tank-top-using-a-vr-headset-8721318/.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://www.pexels.com/photo/a-woman-in-a-tank-top-using-a-vr-headset-8721318.jpeg?auto=compress&cs=tinysrgb&w=600',
     technologies: ['Python', 'C' , 'OpenCV', 'Mediapipe', 'Flask', 'HTML', 'CSS', 'JavaScript', 'Pygame'],
     year: '2025',
-    category: 'web-dev',
+    category: 'machine-learning',
     githubUrl: null ,
     liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/'
   },
@@ -30,7 +30,7 @@ export const projectsData: Project[] = [
     image: 'https://images.pexels.com/photos/1181359/pexels-photo-1181359.jpeg?auto=compress&cs=tinysrgb&w=600',
     technologies: ['Python', 'Flask', 'NLTK', 'spaCy', 'Matplotlib', 'Seaborn', 'JavaScript', 'HTML', 'CSS'],
     year: '2024',
-    category: 'machine-learning',
+    category: 'visualization',
     githubUrl: 'https://github.com/ChAtulKumarPrusty/NLP-Text-Similarity-Visualization-WebApp',
     liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/'
   },
@@ -63,7 +63,7 @@ export const projectsData: Project[] = [
     image: 'https://www.pexels.com/photo/glass-of-water-beside-slices-of-apple-and-record-on-calorie-count-on-brown-wooden-table-12499374.jpeg?auto=compress&cs=tinysrgb&w=600',
     technologies: ['Python', 'TensorFlow', 'YOLOv4', 'OpenCV', 'Flask', 'Pandas', 'NumPy', 'HTML', 'CSS', 'JavaScript'],
     year: '2024',
-    category: 'games',
+    category: 'data-analysis',
     githubUrl: 'https://github.com/ChAtulKumarPrusty/Calorie-Estimation-with-Object-Detection',
     liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/'
   },
@@ -85,7 +85,7 @@ export const projectsData: Project[] = [
     image: 'https://www.pexels.com/photo/chatgpt-voice-chat-on-phone-20870796.jpeg?auto=compress&cs=tinysrgb&w=600',
     technologies: ['Python', 'SpeechRecognition', 'Pyttsx3', 'OpenCV', 'Mediapipe', 'Transformers', 'Flask'],
     year: '2023',
-    category: 'games',
+    category: 'machine-learning',
     githubUrl: 'https://github.com/ChAtulKumarPrusty/AI-Voice-Assistant',
     liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/'
   },
