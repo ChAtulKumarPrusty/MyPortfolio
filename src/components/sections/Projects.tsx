@@ -27,10 +27,10 @@ const Projects: React.FC = () => {
             All Projects
           </CategoryButton>
           <CategoryButton 
-            active={activeCategory === 'data-analysis'} 
-            onClick={() => setActiveCategory('data-analysis')}
+            active={activeCategory === 'game'} 
+            onClick={() => setActiveCategory('game')}
           >
-            Data Analysis
+            Games
           </CategoryButton>
           <CategoryButton 
             active={activeCategory === 'machine-learning'} 
