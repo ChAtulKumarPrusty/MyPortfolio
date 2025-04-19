@@ -5,7 +5,7 @@ export const projectsData: Project[] = [
     id: 1,
     title: 'Online Shopping Portal',
     description: 'A real-time dashboard for monitoring and predicting customer behavior using machine learning algorithms. The system processes large volumes of data and provides actionable insights for business decision-making.',
-    image: 'https://www.pexels.com/photo/silver-shopping-cart-with-brown-paper-bag-6214470',
+    image: 'Photo by Nataliya Vaitkevich from Pexels: https://www.pexels.com/photo/silver-shopping-cart-with-brown-paper-bag-6214470/',
     technologies: ['Python', 'TensorFlow', 'React', 'D3.js', 'Flask'],
     year: '2023',
     category: 'machine-learning',
