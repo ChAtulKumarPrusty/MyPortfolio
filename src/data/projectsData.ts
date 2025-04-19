@@ -63,7 +63,7 @@ export const projectsData: Project[] = [
     image: 'https://www.pexels.com/photo/glass-of-water-beside-slices-of-apple-and-record-on-calorie-count-on-brown-wooden-table-12499374.jpeg?auto=compress&cs=tinysrgb&w=600',
     technologies: ['Python', 'TensorFlow', 'YOLOv4', 'OpenCV', 'Flask', 'Pandas', 'NumPy', 'HTML', 'CSS', 'JavaScript'],
     year: '2024',
-    category: 'data-analysis',
+    category: 'games',
     githubUrl: 'https://github.com/ChAtulKumarPrusty/Calorie-Estimation-with-Object-Detection',
     liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/'
   },
@@ -85,7 +85,7 @@ export const projectsData: Project[] = [
     image: 'https://www.pexels.com/photo/chatgpt-voice-chat-on-phone-20870796.jpeg?auto=compress&cs=tinysrgb&w=600',
     technologies: ['Python', 'SpeechRecognition', 'Pyttsx3', 'OpenCV', 'Mediapipe', 'Transformers', 'Flask'],
     year: '2023',
-    category: 'data-analysis',
+    category: 'games',
     githubUrl: 'https://github.com/ChAtulKumarPrusty/AI-Voice-Assistant',
     liveUrl: 'https://www.linkedin.com/in/chatulkumarprusty/'
   },
