@@ -5,10 +5,10 @@ export const projectsData: Project[] = [
     id: 1,
     title: 'Online Shopping Portal',
     description: 'A real-time dashboard for monitoring and predicting customer behavior using machine learning algorithms. The system processes large volumes of data and provides actionable insights for business decision-making.',
-    image: 'https://images.pexels.com/photos/6214470/pexels-photo-6214470.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Fonline-shopping-e-commerce-website-22498393397.html&psig=AOvVaw0uC9Mw-EN9kY9OKxT35o4K&ust=1745124166112000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiS0qKk44wDFQAAAAAdAAAAABAE.jpeg?auto=compress&cs=tinysrgb&w=600',
     technologies: ['Python', 'TensorFlow', 'React', 'D3.js', 'Flask'],
     year: '2023',
-    category: 'machine-learning','web-dev',
+    category: 'machine-learning',
     githubUrl: 'https://github.com/ChAtulKumarPrusty/Online-Shopping-Portal',
     liveUrl: 'https://example.com'
   },
