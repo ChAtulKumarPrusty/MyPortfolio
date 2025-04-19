@@ -5,7 +5,7 @@ export const projectsData: Project[] = [
     id: 1,
     title: 'Gesture-Controlled Game Hub',
     description: 'Developed an innovative web-based platform that allows users to interact with multiple games through hand and face gestures. The platform features a variety of gesture-controlled games, including car racing, flight simulation, arcade racing, endless runner, hill climb , and many more....',
-    image: 'https://images.pexels.com/photos/7869452/pexels-photo-7869452.jpeg?auto=compress&cs=tinysrgb&w=600.jpg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://www.pexels.com/photo/man-wearing-white-crew-neck-shirt-and-virtual-headset-7773724.jpg?auto=compress&cs=tinysrgb&w=600',
     technologies: ['Python', 'C' , 'OpenCV', 'Mediapipe', 'Flask', 'HTML', 'CSS', 'JavaScript', 'Pygame'],
     year: '2025',
     category: 'machine-learning',
