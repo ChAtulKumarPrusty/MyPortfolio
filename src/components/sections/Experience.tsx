@@ -10,54 +10,15 @@ const Experience: React.FC = () => {
     {
       id: 1,
       title: 'Data Science Intern',
-      company: 'Tech Solutions Inc.',
-      location: 'San Francisco, CA',
-      period: 'Jun 2023 - Aug 2023',
+      company: 'Edufabrica Pvt. Ltd.',
+      location: 'New Delhi',
+      period: 'Aug 2023 - Sep 2023',
       description: [
         'Developed predictive models using Python and TensorFlow to forecast customer behavior',
         'Cleaned and analyzed over 1TB of raw customer data to identify key trends',
         'Created interactive dashboards using Plotly and Dash to present findings to stakeholders'
       ],
       skills: ['Python', 'TensorFlow', 'Pandas', 'Data Visualization']
-    },
-    {
-      id: 2,
-      title: 'Research Assistant',
-      company: 'University Research Lab',
-      location: 'Boston, MA',
-      period: 'Jan 2023 - Present',
-      description: [
-        'Conducting research on novel deep learning architectures for time series forecasting',
-        'Implementing machine learning models to analyze environmental sensor data',
-        'Co-authored 2 research papers accepted to peer-reviewed conferences'
-      ],
-      skills: ['Deep Learning', 'PyTorch', 'Research Methods', 'Scientific Writing']
-    },
-    {
-      id: 3,
-      title: 'Software Engineering Intern',
-      company: 'StartupX',
-      location: 'Remote',
-      period: 'May 2022 - Aug 2022',
-      description: [
-        'Developed RESTful APIs using Django and PostgreSQL',
-        'Created data pipelines for real-time analytics processing',
-        'Collaborated with cross-functional teams to implement new features'
-      ],
-      skills: ['Python', 'Django', 'SQL', 'Git', 'API Development']
-    },
-    {
-      id: 4,
-      title: 'Data Analysis Project',
-      company: 'Academic Project',
-      location: 'University',
-      period: 'Sep 2021 - Dec 2021',
-      description: [
-        'Led a team of 3 students in analyzing NYC taxi trip dataset',
-        'Applied statistical methods to identify patterns and anomalies',
-        'Created visualization dashboard that won department showcase award'
-      ],
-      skills: ['R', 'Statistical Analysis', 'Data Visualization', 'Team Leadership']
     }
   ];
 
