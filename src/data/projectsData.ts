@@ -27,7 +27,7 @@ export const projectsData: Project[] = [
     id: 3,
     title: 'NLP Text Similarity & Visualization Web App',
     description: 'This project is a powerful Flask-based web application that evaluates the similarity between two texts (or images containing text), leveraging various NLP techniques. It supports multiple similarity metrics, visual analytics, and word-level frequency insights. Ideal for research, academic comparisons, and document analysis.',
-    image: 'https://images.pexels.com/photos/1181359/pexels-photo-1181359.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://cdn.prod.website-files.com/5ef788f07804fb7d78a4127a/6539fb3bdbc72981d34ba5d9_Sentence%20similarity%20is%20a%20tough%20NLP%20problem.webp',
     technologies: ['Python', 'Flask', 'NLTK', 'spaCy', 'Matplotlib', 'Seaborn', 'JavaScript', 'HTML', 'CSS'],
     year: '2024',
     category: 'visualization',
