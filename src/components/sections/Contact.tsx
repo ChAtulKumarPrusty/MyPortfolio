@@ -76,7 +76,7 @@ const Contact: React.FC = () => {
             <div className="flex space-x-4">
               <SocialLink href="https://github.com/ChAtulKumarPrusty" icon={<GitHub />} label="GitHub" />
               <SocialLink href="https://www.linkedin.com/in/chatulkumarprusty/" icon={<Linkedin />} label="LinkedIn" />
-              <SocialLink href="chatulprusty@gmail.com" icon={<Mail />} label="Email" />
+              <SocialLink href="mailto:chatulprusty@gmail.com" icon={<Mail />} label="Email" />
             </div>
           </div>
           
