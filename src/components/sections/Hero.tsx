@@ -17,6 +17,9 @@ const Hero: React.FC = () => {
       aboutSection.scrollIntoView({ behavior: 'smooth' });
     }
   };
+  const handleDownload = () => {
+    window.open('https://drive.google.com/file/d/1NVHBW_BqxjDT4JjiwvAE0O4JXo9FrJyB/view?usp=drive_link', '_blank');
+  };
 
   return (
     <section 
@@ -61,10 +64,7 @@ const Hero: React.FC = () => {
             Get in Touch
           </Button>
           <Button 
-            onClick={() => {
-              // Replace with actual resume download link
-              alert('Resume download would happen here');
-            }}
+            onClick={handleDownload}
             secondary
           >
             <Download className="w-4 h-4 mr-2" />
