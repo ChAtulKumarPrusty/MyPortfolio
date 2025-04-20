@@ -47,7 +47,7 @@ const Navbar: React.FC<NavbarProps> = ({ scrollToSection }) => {
               }`}
               onClick={() => handleClick('hero')}
             >
-              &lt;Data Science.dev/&gt;
+              &lt;DataScience.dev/&gt;
             </span>
           </div>
           <div className="hidden md:block">
